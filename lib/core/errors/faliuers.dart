@@ -1,5 +1,5 @@
 import 'package:equatable/equatable.dart';
-import 'package:health_app/core/errors/exception.dart';
+import 'exception.dart';
 
 // ignore: must_be_immutable
 abstract class failure extends Equatable {

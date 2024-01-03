@@ -1,4 +1,4 @@
-import 'package:health_app/core/utils/typedef.dart';
+import 'package:project/core/utils/typedef.dart';
 
 abstract class usecaseswithparams<Type, Params> {
   const usecaseswithparams();
